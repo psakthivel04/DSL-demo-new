@@ -3,7 +3,7 @@ apiVersion: cloudbees.com/v2025.9
 kind: project
 metadata:
   name: yaml-project
-  description: yml test install test
+  description: not working
 spec:
   resourceName: default
   tracked: true
