@@ -3,7 +3,7 @@ apiVersion: cloudbees.com/v2025.9
 kind: project
 metadata:
   name: CD ARO
-  description: yaml last
+  description: yaml last final
 spec:
   tracked: true
   acl:
