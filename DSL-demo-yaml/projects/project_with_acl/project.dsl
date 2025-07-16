@@ -3,6 +3,7 @@ apiVersion: cloudbees.com/v2025.9
 kind: project
 metadata:
   name: project_with_acl
+  description: yaml format issue
 spec:
   tracked: true
   acl:
