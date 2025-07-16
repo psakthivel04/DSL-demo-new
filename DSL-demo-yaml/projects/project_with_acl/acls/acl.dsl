@@ -5,7 +5,7 @@ spec:
   inheriting: true
   aclEntries:
     - principalType: user
-      principalName: "project: CD ARO"
+      principalName: "project: project_with_acl"
       changePermissionsPrivilege: allow
       executePrivilege: allow
       modifyPrivilege: allow
